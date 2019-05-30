@@ -16,3 +16,8 @@
 | POST     | /studens/edit    |          | id、name、age、gender、hobbies | 处理编辑请求     |
 | GET      | /students/delete | id       |                                | 处理删除请求     |
 |          |                  |          |                                |                  |
+
+#依赖包说明
+注意node_modules下的依赖包可能失效，需要npm重新下载
+npm install --save art-template.等等
+还有express框架等
